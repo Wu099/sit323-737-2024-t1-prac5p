@@ -15,7 +15,7 @@ curl localhost:3000 -vv
 ```
 3. push image to repository
 ```
-docker login -u ccc -p xxx 
-docker tag nodeweb:1.0 xxx:1.0
-docker push nodeweb:1.0
+docker login -u 1959350159@qq.com -p xxx 
+docker tag nodeweb:1.0 195350159/nodeweb:1.0
+docker push 195350159/nodeweb:1.0
 ```
