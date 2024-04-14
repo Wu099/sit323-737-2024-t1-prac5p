@@ -1,0 +1,7 @@
+version: "3"
+services:
+  nodeweb:
+    image: nodeweb:1.0
+    restart: always
+    ports:
+       - "3000:3000"
